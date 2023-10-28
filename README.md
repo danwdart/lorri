@@ -333,5 +333,5 @@ _([Nix as observed by LORRI on 2015-07-13](https://www.nasa.gov/newhorizons/lorr
 [home-manager-service]: https://rycee.gitlab.io/home-manager/options.html#opt-services.lorri.enable
 [home-manager]: https://rycee.gitlab.io/home-manager/
 [lorri-blog-post]: https://www.tweag.io/posts/2019-03-28-introducing-lorri.html
-[nixos-service]: https://nixos.org/nixos/options.html#services.lorri.enable
+[nixos-service]: https://search.nixos.org/options?query=services.lorri.enable&show=services.lorri.enable
 [nixos]: https://nixos.org/
